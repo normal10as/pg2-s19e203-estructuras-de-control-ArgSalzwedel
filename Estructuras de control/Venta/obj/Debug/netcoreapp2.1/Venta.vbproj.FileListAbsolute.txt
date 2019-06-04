@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\obj\Debug\netcoreapp2.1\Venta.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\obj\Debug\netcoreapp2.1\Venta.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\obj\Debug\netcoreapp2.1\Venta.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\obj\Debug\netcoreapp2.1\Venta.AssemblyInfo.vb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\bin\Debug\netcoreapp2.1\Venta.deps.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\bin\Debug\netcoreapp2.1\Venta.runtimeconfig.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\bin\Debug\netcoreapp2.1\Venta.runtimeconfig.dev.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\bin\Debug\netcoreapp2.1\Venta.dll
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\bin\Debug\netcoreapp2.1\Venta.pdb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\obj\Debug\netcoreapp2.1\Venta.dll
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Venta\obj\Debug\netcoreapp2.1\Venta.pdb

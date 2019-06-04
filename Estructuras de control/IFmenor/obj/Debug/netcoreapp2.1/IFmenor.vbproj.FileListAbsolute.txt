@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\bin\Debug\netcoreapp2.1\IFmenor.deps.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\bin\Debug\netcoreapp2.1\IFmenor.runtimeconfig.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\bin\Debug\netcoreapp2.1\IFmenor.runtimeconfig.dev.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\bin\Debug\netcoreapp2.1\IFmenor.dll
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\bin\Debug\netcoreapp2.1\IFmenor.pdb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\obj\Debug\netcoreapp2.1\IFmenor.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\obj\Debug\netcoreapp2.1\IFmenor.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\obj\Debug\netcoreapp2.1\IFmenor.AssemblyInfo.vb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\obj\Debug\netcoreapp2.1\IFmenor.dll
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\obj\Debug\netcoreapp2.1\IFmenor.pdb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\IFmenor\obj\Debug\netcoreapp2.1\IFmenor.vbprojAssemblyReference.cache

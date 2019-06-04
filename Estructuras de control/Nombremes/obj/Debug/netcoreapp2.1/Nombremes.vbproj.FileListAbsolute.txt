@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\bin\Debug\netcoreapp2.1\Nombremes.deps.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\bin\Debug\netcoreapp2.1\Nombremes.runtimeconfig.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\bin\Debug\netcoreapp2.1\Nombremes.runtimeconfig.dev.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\bin\Debug\netcoreapp2.1\Nombremes.dll
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\bin\Debug\netcoreapp2.1\Nombremes.pdb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\obj\Debug\netcoreapp2.1\Nombremes.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\obj\Debug\netcoreapp2.1\Nombremes.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\obj\Debug\netcoreapp2.1\Nombremes.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\obj\Debug\netcoreapp2.1\Nombremes.AssemblyInfo.vb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\obj\Debug\netcoreapp2.1\Nombremes.dll
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Nombremes\obj\Debug\netcoreapp2.1\Nombremes.pdb

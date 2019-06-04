@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\bin\Debug\netcoreapp2.1\Comparar.deps.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\bin\Debug\netcoreapp2.1\Comparar.runtimeconfig.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\bin\Debug\netcoreapp2.1\Comparar.runtimeconfig.dev.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\bin\Debug\netcoreapp2.1\Comparar.dll
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\bin\Debug\netcoreapp2.1\Comparar.pdb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\obj\Debug\netcoreapp2.1\Comparar.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\obj\Debug\netcoreapp2.1\Comparar.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\obj\Debug\netcoreapp2.1\Comparar.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\obj\Debug\netcoreapp2.1\Comparar.AssemblyInfo.vb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\obj\Debug\netcoreapp2.1\Comparar.dll
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Comparar\obj\Debug\netcoreapp2.1\Comparar.pdb

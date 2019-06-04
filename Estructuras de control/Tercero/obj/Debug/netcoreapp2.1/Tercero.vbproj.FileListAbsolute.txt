@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\bin\Debug\netcoreapp2.1\Tercero.deps.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\bin\Debug\netcoreapp2.1\Tercero.runtimeconfig.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\bin\Debug\netcoreapp2.1\Tercero.runtimeconfig.dev.json
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\bin\Debug\netcoreapp2.1\Tercero.dll
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\bin\Debug\netcoreapp2.1\Tercero.pdb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\obj\Debug\netcoreapp2.1\Tercero.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\obj\Debug\netcoreapp2.1\Tercero.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\obj\Debug\netcoreapp2.1\Tercero.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\obj\Debug\netcoreapp2.1\Tercero.AssemblyInfo.vb
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\obj\Debug\netcoreapp2.1\Tercero.dll
+C:\Users\malon\source\repos\normal10as\pg2-s19e203-estructuras-de-control-ArgSalzwedel\Estructuras de control\Tercero\obj\Debug\netcoreapp2.1\Tercero.pdb
